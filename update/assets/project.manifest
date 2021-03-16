@@ -1,0 +1,125 @@
+{
+    "packageUrl": "http://139.199.80.239:8099/",
+    "remoteManifestUrl": "http://139.199.80.239:8099/project.manifest",
+    "remoteVersionUrl": "http://139.199.80.239:8099/version.manifest",
+    "version": "0.0.0",
+    "assets": {
+        "src/cocos2d-jsb.jsc": {
+            "size": 411508,
+            "md5": "f9fd76079ee20410cbace9f0cb8b71df"
+        },
+        "src/physics.jsc": {
+            "size": 51516,
+            "md5": "1449d7994cae4528e62172a7187ab980"
+        },
+        "src/project.jsc": {
+            "size": 1948,
+            "md5": "714f1cbc9e217d24d3d2731cfe7a6083"
+        },
+        "src/settings.jsc": {
+            "size": 916,
+            "md5": "cbe6fdd62e76965061a8e78ff7a38ca9"
+        },
+        "res/import/0b/0b06c7373.json": {
+            "size": 6624,
+            "md5": "407c842a26527636e52e76cc24d327ce"
+        },
+        "res/import/0e/0e93aeaa-0b53-4e40-b8e0-6268b4e07bd7.json": {
+            "size": 4355,
+            "md5": "93e6ebbb1b644042ed407e6844a872b6"
+        },
+        "res/import/0f/0fa89d326.json": {
+            "size": 212,
+            "md5": "0e31759dc95eeb5fa6bc5bf8cdaf7885"
+        },
+        "res/import/14/144c3297-af63-49e8-b8ef-1cfa29b3be28.json": {
+            "size": 2397,
+            "md5": "98ff94ce78b2387c357489626ab6cbf8"
+        },
+        "res/import/28/2874f8dd-416c-4440-81b7-555975426e93.json": {
+            "size": 3766,
+            "md5": "120e0b890f65aaba83a0ed668a8df315"
+        },
+        "res/import/2a/2a296057-247c-4a1c-bbeb-0548b6c98650.json": {
+            "size": 232,
+            "md5": "884e90b20ccc9c187b40e35ba77b08a4"
+        },
+        "res/import/2a/2a7c0036-e0b3-4fe1-8998-89a54b8a2bec.json": {
+            "size": 20029,
+            "md5": "2fcb3473eeaeed8540e996bf5889342d"
+        },
+        "res/import/3a/3a7bb79f-32fd-422e-ada2-96f518fed422.json": {
+            "size": 132,
+            "md5": "238b98c5dbfd374101682fb8ec9ecdf3"
+        },
+        "res/import/43/432fa09c-cf03-4cff-a186-982604408a07.json": {
+            "size": 480,
+            "md5": "9116f774e1fb92812e6d2a9ab281481a"
+        },
+        "res/import/46/466d4f9b-e5f4-4ea8-85d5-3c6e9a65658a.json": {
+            "size": 193,
+            "md5": "63eadaff286aee9996efc46c0108f4fe"
+        },
+        "res/import/6d/6d91e591-4ce0-465c-809f-610ec95019c6.json": {
+            "size": 15394,
+            "md5": "692c8f9ede08062e401a7699e79d4253"
+        },
+        "res/import/6f/6f801092-0c37-4f30-89ef-c8d960825b36.json": {
+            "size": 125,
+            "md5": "17b20ade167c3325db08ffe0bc988549"
+        },
+        "res/import/7a/7afd064b-113f-480e-b793-8817d19f63c3.json": {
+            "size": 126,
+            "md5": "cacde058b1d10074f9eaf98f378db4f5"
+        },
+        "res/import/82/829a282c-b049-4019-bd38-5ace8d8a6417.json": {
+            "size": 80449,
+            "md5": "92d94fff06240bf3feb423ec5deed484"
+        },
+        "res/import/c0/c0040c95-c57f-49cd-9cbc-12316b73d0d4.json": {
+            "size": 831,
+            "md5": "b0dbd4e5c5fe0c626ffbc059f412c2c2"
+        },
+        "res/import/cf/cf7e0bb8-a81c-44a9-ad79-d28d43991032.json": {
+            "size": 131,
+            "md5": "fa6d38214f75812c8e2d20cbca1d5f02"
+        },
+        "res/import/d0/d0f8219b-9b4c-4f55-b298-250b5d99684e.json": {
+            "size": 63,
+            "md5": "2f4592b3659c0e169ff817de62259291"
+        },
+        "res/import/ec/eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432.json": {
+            "size": 163,
+            "md5": "7f5866bbb3088de8b6680e4e95b464b7"
+        },
+        "res/raw-assets/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.png": {
+            "size": 82,
+            "md5": "cea68f0d7cba38440224f6f74531e2d8"
+        },
+        "res/raw-assets/60/600301aa-3357-4a10-b086-84f011fa32ba.png": {
+            "size": 7518,
+            "md5": "c3a3a78f9b25e1da1df945e4082e3b58"
+        },
+        "res/raw-assets/71/71561142-4c83-4933-afca-cb7a17f67053.png": {
+            "size": 1050,
+            "md5": "c06a93f5f1a8a1c6edc4fd8b52e96cbf"
+        },
+        "res/raw-assets/b4/b43ff3c2-02bb-4874-81f7-f2dea6970f18.png": {
+            "size": 1114,
+            "md5": "83fcc9912e01ae5411c357651fb8b1cf"
+        },
+        "res/raw-assets/d0/d0f8219b-9b4c-4f55-b298-250b5d99684e.manifest": {
+            "size": 1325,
+            "md5": "0b7f7e2959c9e13d58b2cb0637f4f939"
+        },
+        "res/raw-assets/e8/e851e89b-faa2-4484-bea6-5c01dd9f06e2.png": {
+            "size": 1082,
+            "md5": "90cf45d059d0408bec327f66eae5764c"
+        },
+        "res/raw-assets/f6/f63eebfd-3233-4661-9a35-e7b4c1a8a522.jpg": {
+            "size": 56068,
+            "md5": "b42717620703302476c25477314a04f2"
+        }
+    },
+    "searchPaths": []
+}

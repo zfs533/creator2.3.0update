@@ -1,0 +1,77 @@
+<panel-frame>
+    <div class="layout horizontal center-justified">
+        <ui-markdown class="self-center">
+            ### 为当前场景中选中节点添加脚本组件
+        </ui-markdown>
+    </div>
+    <ui-markdown class="self-center">
+        -------
+    </ui-markdown>
+    <ui-prop name="脚本组件名" tooltip=“不能为空” class="flex-1">
+        <ui-input placeholder="input script name" v-value="className"></ui-input>
+    </ui-prop>
+    <ui-prop name="保存目录" tooltip="相对于assets/script目录，不填写则默认保存在该目录下" class="flex-1">
+        <ui-input placeholder="login/main" v-value="pathName"></ui-input>
+    </ui-prop>
+    <ui-markdown class="self-center">
+        -------
+    </ui-markdown>
+    <div class="layout horizontal center-justified">
+        <ui-button class="green" @confirm="startBtnEvent">开始</ui-button>
+    </div>
+</panel-frame>
+<!-- <panel-frame>
+    <div class="group">
+        <ui-hint class="green">Bottom Arrow</ui-hint>
+        <ui-hint class="blue">Left Arrow</ui-hint>
+        <ui-hint class="red">Right Arrow</ui-hint>
+    </div>
+    <div class="group">
+        <ui-markdown>
+            ## Headers
+        </ui-markdown>
+    </div>
+    <div class="ui">
+        <ui-button class="blue">button</ui-button>
+        <ui-button class="red">button</ui-button>
+        <ui-button class="green" @confirm="btnClickEvent">click me</ui-button>
+    </div>
+    <div class="ui">
+        <ui-checkbox v-value="isChecked">checkbox</ui-checkbox>
+        <ui-checkbox>checkbox</ui-checkbox>
+        <ui-color value="#ff0000"></ui-color>
+        <ui-input placeholder="tip info" v-value="inputComp"></ui-input>
+        <ui-num-input value="1.2"></ui-num-input>
+    </div>
+    <div class="ui">
+        <ui-select value="4">
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">hahahhahahhah</option>
+        </ui-select>
+        <ui-slider value="0.5"></ui-slider>
+        <ui-slider value="0"></ui-slider>
+    </div>
+
+    <div class="container">
+        <ui-box-container>
+            <ui-prop name="标签文本" type="string">
+                <ui-input placeholder="tip information"></ui-input>
+                <ui-button></ui-button>
+            </ui-prop>
+            <ui-prop name="第二个" type="string">
+                <ui-input placeholder="input informaiton text"></ui-input>
+            </ui-prop>
+        </ui-box-container>
+    </div>
+    <div>
+        <ui-webview src="http://www.cocos.com/"></ui-webview>
+    </div>
+    <div class="layout horizontal">
+        <ui-button>1</ui-button>
+        <ui-button class="flex-1">2</ui-button>
+        <ui-button>3</ui-button>
+    </div>
+</panel-frame> -->

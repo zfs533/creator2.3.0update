@@ -1,0 +1,20 @@
+{
+    "name": "bindscript",
+    "version": "0.0.2",
+    "discription": "bindscript plugin",
+    "author": "xusanduo",
+    "main": "main.js",
+    "main-menu": {
+        "脚本绑定/打开": {
+            "message": "bindscript:opanPanel"
+        }
+    },
+    "scene-script": "sceneWalker.js",
+    "panel": {
+        "title": "操作面板",
+        "main": "panel/index.js",
+        "type": "dockable",
+        "width": 300,
+        "height": 400
+    }
+}

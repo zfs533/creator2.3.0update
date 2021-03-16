@@ -1,0 +1,20 @@
+{
+    "name": "update",
+    "version": "0.0.2",
+    "discription": "update asserts plugin",
+    "author": "xusanduo",
+    "main": "main.js",
+    "main-menu": {
+        "manifest/open": {
+            "message": "update:opanPanel"
+        }
+    },
+    "scene-script": "create_manifest.js",
+    "panel": {
+        "title": "操作面板",
+        "main": "panel/index.js",
+        "type": "dockable",
+        "width": 300,
+        "height": 400
+    }
+}
